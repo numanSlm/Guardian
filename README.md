@@ -1,7 +1,3 @@
-# mdbreact-admin-template-free
-
-> MDB - React Admin Dashboard Free
-
 ## Build Setup
 
 ``` bash
