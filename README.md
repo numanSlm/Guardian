@@ -1,5 +1,8 @@
 # Guardian
 
+## Research Study Paper
+Read the research Paper here: [IJRAR](https://ijrar.org/viewfull.php?&p_id=IJRARJFM1451)
+
 Guardian is a crime mapping tool with its applications spanning
 not only to just report a crime but also actively mapping the severity and locality of the said incident.
 With the help of our app, citizens can report crimes of various types with just a push of a button.
@@ -13,8 +16,6 @@ maximize the efficiency rate in dealing of these problems.
 After the crime has been resolved, the activity can be released to the general public after the approval
 of concerned authorities and will be displayed on the map with redacted details in order to maintai
 
-### Research Study Paper
-Read the research Paper here: [IJRAR](https://ijrar.org/viewfull.php?&p_id=IJRARJFM1451)
 
 
 ## Build Setup
